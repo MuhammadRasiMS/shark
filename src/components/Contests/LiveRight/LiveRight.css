@@ -1,0 +1,129 @@
+.live-container2 {
+  display: flex;
+  flex-direction: column;
+  margin-top: 70px;
+}
+
+.liveright {
+  position: relative;
+  width: 440px;
+  height: 160px;
+  border-radius: 25px;
+  border: 1px solid rgb(167, 167, 167);
+  border-width: 0.9px;
+  margin-top: 50px;
+  margin-left: 10px;
+}
+
+.liveright1 {
+  background: #067D71;
+  background: radial-gradient(at center top, #03453e, #071b24);
+}
+
+.liveright2 {
+  background: #ce6400;
+  background: radial-gradient(at center top, #864100, #071b24);
+}
+
+.liveright3 {
+  background: #cf2089;
+  background: radial-gradient(at center top, #861659, #071b24);
+}
+
+.liveright4 {
+  background: #18bfcb;
+  background: radial-gradient(at center top, #0e7279, #071b24);
+}
+
+
+.live-left-section {
+  position: absolute;
+  left: 27px;
+  top: 14px;
+}
+
+.live-year {
+  width: 25px;
+  height: 16px;
+  background: linear-gradient(114.11deg, #faa525 3.05%, #c13509 97.98%);
+  border-radius: 3.64941px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.live-year p {
+  font-weight: 700;
+  color: white;
+  font-size: 7.3px;
+}
+
+.live-left-section h1 {
+  margin-top: 5px;
+  color: white;
+  line-height: 1;
+  font-size: 30px;
+}
+
+.live-get-container {
+  position: relative;
+  width: 150px;
+  height: 28px;
+  background: linear-gradient(
+    90.98deg,
+    #071b24 2.6%,
+    rgba(13, 32, 40, 0.987386) 23.43%,
+    rgba(87, 87, 87, 0.838542) 95.65%
+  );
+  border-radius: 34px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 15px;
+}
+
+.live-get-container p {
+  margin-left: 8px;
+  font-weight: 400;
+  font-size: 10px;
+  background: linear-gradient(180deg, #ffffff 0%, rgba(255, 255, 255, 0) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.live-get-container .live-get-it-now {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 20px;
+  width: 90px;
+  background: #3dbda7;
+  border-radius: 44.4012px;
+  margin-right: 5px;
+  cursor: pointer;
+}
+
+.live-get-container .live-get-it-now h2 {
+  font-weight: 400;
+  font-size: 10px;
+  color: #ffffff;
+  cursor: pointer;
+}
+
+
+.live-draw-product {
+  margin-left: 135px;
+  height: 160px;
+  width: 310px;
+  display: flex;
+  align-items: last baseline;
+  justify-content: end;
+}
+
+.live-draw-product img {
+  object-fit: contain;
+  max-width: 100%;
+  max-height: 100%;
+}
+

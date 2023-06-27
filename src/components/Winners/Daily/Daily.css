@@ -1,0 +1,67 @@
+.daily-container {
+  padding-top: 80px;
+}
+
+.daily-header {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  color: white;
+  margin-left: 200px;
+}
+
+.daily-swiper {
+  height: 380px;
+  width: 1400px;
+}
+
+.daily-header .trophy {
+  width: 40px;
+}
+
+.daily-winner-profile {
+  position: absolute;
+  margin-top: 30px;
+  height: 320px;
+  width: 260px;
+  margin-left: 80px;
+}
+
+.daily-profile-picture img {
+  position: absolute;
+  z-index: 10;
+    width: 228px;
+  height: 228px;
+}
+
+.daily-profile-picture .daily-profile-image {
+  position: absolute;
+  width: 205px;
+  height: 205px;
+  border-radius: 200px;
+  background: rgba(217, 217, 217, 0.5);
+  translate: 12px 15px;
+}
+
+.daily-profile-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 232px;
+}
+
+.daily-nameandndprize {
+  margin-top: 260px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.daily-nameandndprize h2 {
+  color: white;
+}
+
+.daily-nameandndprize h4 {
+  color: greenyellow;
+}
+

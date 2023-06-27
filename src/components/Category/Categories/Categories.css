@@ -1,0 +1,59 @@
+.categories-container2 {
+    padding-top: 80px;
+    margin-left: 130px;
+}
+
+.cat-container2 {
+    margin-top: 15px;
+}
+
+.mySwiper2{
+  height: 358px;
+}
+
+.category-heading2 {
+    color: aliceblue;
+}
+
+.category-heading2 img{
+    margin-right: 20px;
+}
+
+.cat-content2 h2 {
+  color: white;
+  margin-top: 10px;
+}
+
+.products2 {
+  position: absolute;
+  width: 280px;
+  height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.products2 img {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.cat-bottom2 {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  /* border: 1px solid white; */
+  width: 230px;
+  top: 15rem;
+  margin-left: 25px;
+}
+
+.cat-bottom2 .name-rate2 h4 {
+  color: white;
+}
+
+
+
+

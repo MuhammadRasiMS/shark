@@ -1,0 +1,64 @@
+.bigmatch-container {
+  padding-top: 80px;
+}
+
+.bigmatch-header {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  color: white;
+  margin-left: 200px;
+}
+
+.bigmatch-swiper {
+  height: 380px;
+  width: 1000px;
+}
+
+.bigmatch-header .trophy {
+  width: 40px;
+}
+
+.winner-profile {
+  position: absolute;
+  margin-top: 30px;
+  height: 320px;
+  width: 260px;
+}
+
+.profile-picture img {
+  position: absolute;
+  z-index: 10;
+}
+
+.profile-picture .profile-image {
+  position: absolute;
+  width: 232px;
+  height: 232px;
+  border-radius: 232px;
+  background: rgba(217, 217, 217, 0.5);
+  translate: 12px 15px;
+}
+
+.profile-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 232px;
+}
+
+.nameandndprize {
+  margin-top: 260px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.nameandndprize h2 {
+  color: white;
+}
+
+.nameandndprize h4 {
+  color: greenyellow;
+}
+

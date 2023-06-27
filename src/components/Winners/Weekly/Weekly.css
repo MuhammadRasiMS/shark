@@ -1,0 +1,69 @@
+.weekly-container {
+  padding-top: 80px;
+}
+
+.weekly-header {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  color: white;
+  margin-left: 200px;
+}
+
+.weekly-swiper {
+  height: 380px;
+  width: 1400px;
+  margin-bottom: 50px;
+
+}
+
+.weekly-header .trophy {
+  width: 40px;
+}
+
+.weekly-winner-profile {
+  position: absolute;
+  margin-top: 30px;
+  height: 320px;
+  width: 260px;
+  margin-left: 80px;
+}
+
+.weekly-profile-picture img {
+  position: absolute;
+  z-index: 10;
+    width: 228px;
+  height: 228px;
+}
+
+.weekly-profile-picture .weekly-profile-image {
+  position: absolute;
+  width: 205px;
+  height: 205px;
+  border-radius: 200px;
+  background: rgba(217, 217, 217, 0.5);
+  translate: 12px 15px;
+}
+
+.weekly-profile-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 232px;
+}
+
+.weekly-nameandndprize {
+  margin-top: 260px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.weekly-nameandndprize h2 {
+  color: white;
+}
+
+.weekly-nameandndprize h4 {
+  color: greenyellow;
+}
+

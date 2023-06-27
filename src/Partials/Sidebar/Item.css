@@ -1,0 +1,16 @@
+.item {
+    display: flex;
+    padding: 8px 12px 8px 12px;
+    align-items: center;
+    justify-content: flex-start;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    position: relative;
+}
+
+.icons {
+    margin-right: 1.5rem;
+    margin-left: 1.1rem;
+}
+
